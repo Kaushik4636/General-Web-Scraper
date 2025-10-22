@@ -100,5 +100,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or feedback, feel free to reach out:
 
 * **Email**: [madhavankaushik3@gmail.com](mailto:madhavankaushik3@gmail.com)
-* 
+  
 * **GitHub**: [github.com/Kaushik4636](https://github.com/Kaushik4636)
